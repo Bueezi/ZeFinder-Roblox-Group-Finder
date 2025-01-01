@@ -34,7 +34,7 @@ You can find the Youtube tutorial video [here](https://youtu.be/tavy6EUamYk).
 
 ### Support
 
-- If you encounter any issues, contact **``@Bueezi.``** on Discord.
+- If you encounter any issues, contact **``@Bueezi_``** on Discord.
 
 ---
 
